@@ -13,7 +13,7 @@ Hello there, As a computer science student, I'm always on a journey to learn new
 
 Additionally, I'm venturing into the realm of Robotic Process Automation (RPA) where the goal is automating repetitive tasks and making work easier with RPA tools.
 With knowledge in the field of web dev,block chain and cloud computing I'm looking for new opportunities to learn and grow.
-Feel free to explore my work and count me in for collaborating on innovative and impactful projects.
+Feel free to explore my work and count me in for collaborating on innovative and impactful projects..
 
 ## Skills and Usage
 
@@ -32,19 +32,20 @@ Feel free to explore my work and count me in for collaborating on innovative and
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23FF5733.svg?style=for-the-badge&logo=intellij%20idea&logoColor=white)
 
-### Terminal
-[![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
+### Developer
+![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![UiPath](https://img.shields.io/badge/-[Ui]Path-FF6600?style=for-the-badge&logoColor=white)
+
+### Database
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Microsoft sql server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 
 ### Frameworks
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-
-### Database
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Microsoft sql server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 
 ### Microsoft
@@ -62,13 +63,6 @@ Feel free to explore my work and count me in for collaborating on innovative and
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
 
-### Developer
-![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![UiPath](https://img.shields.io/badge/-[Ui]Path-FF6600?style=for-the-badge&logoColor=white)
-
-
-
 ### Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -77,6 +71,9 @@ Feel free to explore my work and count me in for collaborating on innovative and
 
 ### Analytics
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+### Terminal
+[![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)](https://docs.microsoft.com/en-us/powershell/)
 
 ### Browsers
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
@@ -90,6 +87,7 @@ Feel free to explore my work and count me in for collaborating on innovative and
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)](https://azure.microsoft.com/)
 
 ![fade line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 ### Blogs
 [![hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://first-techblog.hashnode.dev/hologram-technology)
 
