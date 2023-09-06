@@ -86,6 +86,7 @@ Feel free to explore my work and count me in for collaborating on innovative and
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)](https://azure.microsoft.com/)
 
+![fade line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 ### Blogs
 [![hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://first-techblog.hashnode.dev/hologram-technology)
 
