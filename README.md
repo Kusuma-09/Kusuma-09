@@ -5,7 +5,7 @@
 
 ## Tech enthusiast | Continuous Learner | App developer | RPA developer |
 
-_Just as a map guides a traveler, curiosity leads us on our tech journeys._
+Just as a map guides a traveler, curiosity leads us on our tech journeys.
 
 ## About
 
@@ -65,7 +65,9 @@ Feel free to explore my work and count me in for collaborating on innovative and
 ### Developer
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Uipath](file:///C:/Users/Kusuma/AppData/Local/Temp/Rar$DIa3284.3063/uipath-vector-logo.svg?style=for-the-badge&logo=Ui%20path&logoColor=white)
+![UiPath](https://img.shields.io/badge/-[Ui]Path-FF6600?style=for-the-badge&logoColor=white)
+
+
 
 ### Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
