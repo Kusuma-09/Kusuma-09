@@ -3,7 +3,7 @@
 <br><br>
 
 
-## Tech enthusiast | Continuous Learner | App developer | RPA developer |
+## Tech enthusiast | Continuous Learner | RPA developer |
 
 Just as a map guides a traveler, curiosity leads us on our tech journeys.
 
@@ -12,7 +12,7 @@ Just as a map guides a traveler, curiosity leads us on our tech journeys.
 Hello there, As a computer science student, I'm always on a journey to learn new things and explore different areas of tech.I'm currently learning Android development and RPA, and I'm passionate about creating innovative and user-friendly software.From designing UIs to optimizing code for performance, I'm constantly honing my skills to become an adept Android developer.
 
 Additionally, I'm venturing into the realm of Robotic Process Automation (RPA) where the goal is automating repetitive tasks and making work easier with RPA tools.
-With knowledge in the field of web dev,block chain and cloud computing I'm looking for new opportunities to learn and grow.
+With knowledge in the field of web dev and cloud computing I'm looking for new opportunities to learn and grow.
 Feel free to explore my work and count me in for collaborating on innovative and impactful projects..
 
 ## Skills and Usage
@@ -30,7 +30,7 @@ Feel free to explore my work and count me in for collaborating on innovative and
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23FF5733.svg?style=for-the-badge&logo=intellij%20idea&logoColor=white)
+
 
 ### Developer
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
@@ -45,7 +45,6 @@ Feel free to explore my work and count me in for collaborating on innovative and
 ### Frameworks
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 ### Microsoft
@@ -77,7 +76,6 @@ Feel free to explore my work and count me in for collaborating on innovative and
 
 ### Browsers
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-%23FF7139.svg?style=for-the-badge&logo=firefox&logoColor=white)
 ![Microsoft Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 
